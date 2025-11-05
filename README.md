@@ -1,0 +1,50 @@
+Edge Detection Project – Structure Overview
+Project Description
+
+This project is a .NET Console Application developed for performing Edge Detection using OpenCV image processing library.
+The architecture is built with a multi-layer structure to ensure clean separation of concerns, scalability, and easy testing.
+
+Project Layers
+
+Domain Layer
+Contains the core entities such as InputImage that represent the image data and related domain models.
+
+Application Layer
+Includes services, mappers, and logic responsible for applying OpenCV-based edge detection and mapping input data.
+
+Infrastructure Layer
+Handles file operations — loading, saving, and managing images.
+
+Presentation Layer
+The main console application (Program.cs) that acts as the entry point for running image detection tasks.
+
+Tests Layer
+Contains unit and integration tests for validating mapping and OpenCV processing functionality.
+
+Image File Locations
+
+📁 Path:
+
+\Presentation\bin\Debug\net9.0
+
+
+Input Images:
+
+input_1.jpg
+
+input_2.jpg
+
+Output Images:
+
+output_input_1.jpg
+
+output_input_2.jpg
+
+Running Tests
+
+To execute the test suite and validate functionality:
+
+dotnet test
+
+
+✅ The tests automatically validate OpenCV edge detection and image mapping using test data.
