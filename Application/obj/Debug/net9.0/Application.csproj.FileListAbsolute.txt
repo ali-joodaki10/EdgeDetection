@@ -1,0 +1,15 @@
+E:\project\Geeks\EdgeDetection\Application\bin\Debug\net9.0\Application.deps.json
+E:\project\Geeks\EdgeDetection\Application\bin\Debug\net9.0\Application.dll
+E:\project\Geeks\EdgeDetection\Application\bin\Debug\net9.0\Application.pdb
+E:\project\Geeks\EdgeDetection\Application\bin\Debug\net9.0\Domain.dll
+E:\project\Geeks\EdgeDetection\Application\bin\Debug\net9.0\Domain.pdb
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.dll
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\refint\Application.dll
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\Application.pdb
+E:\project\Geeks\EdgeDetection\Application\obj\Debug\net9.0\ref\Application.dll

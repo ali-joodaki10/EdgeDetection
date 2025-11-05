@@ -1,0 +1,15 @@
+E:\project\Geeks\EdgeDetection\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+E:\project\Geeks\EdgeDetection\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+E:\project\Geeks\EdgeDetection\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+E:\project\Geeks\EdgeDetection\Infrastructure\bin\Debug\net9.0\Domain.dll
+E:\project\Geeks\EdgeDetection\Infrastructure\bin\Debug\net9.0\Domain.pdb
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+E:\project\Geeks\EdgeDetection\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

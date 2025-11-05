@@ -1,0 +1,11 @@
+E:\project\Geeks\EdgeDetection\Domain\bin\Debug\net9.0\Domain.deps.json
+E:\project\Geeks\EdgeDetection\Domain\bin\Debug\net9.0\Domain.dll
+E:\project\Geeks\EdgeDetection\Domain\bin\Debug\net9.0\Domain.pdb
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.dll
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\refint\Domain.dll
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\Domain.pdb
+E:\project\Geeks\EdgeDetection\Domain\obj\Debug\net9.0\ref\Domain.dll
